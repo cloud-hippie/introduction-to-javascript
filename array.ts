@@ -1,0 +1,1 @@
+const nameArrau: string[] = ["Cloud Hippie", "Pythonista", "Cloud Native"]
